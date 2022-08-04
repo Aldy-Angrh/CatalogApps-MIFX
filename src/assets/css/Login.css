@@ -1,0 +1,22 @@
+.login-form{
+    position: absolute;
+    top: 600px;
+    left: 550px;
+    width: 400px;
+}
+.login-input{
+    margin: 10px;
+    height: 200px;
+    width: 500px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.text-error{
+    color: white;
+    font-size: medium;
+}
+.loginBg{
+    background-size: cover;
+}
